@@ -1,0 +1,48 @@
+body{
+  background: url(http://www.nationalparks-worldwide.info/eaf/ethiopia/north-east/danakil-depression-desert-palm.jpg) no-repeat;
+  background-size: cover;
+  text-align: center;
+  margin-top: 80px;
+  font-family: 'Palatino Linotype', sans-serif;
+}
+.header{
+  color: black;
+  text-align: center;
+  padding: 3px;
+  font-style: italic;
+  font-size: 1.5em;
+  font-family: 'Comic Sans MS', serif;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#imageIcon, #temp{
+  display: inline-block;
+}
+
+img{
+  vertical-align: middle;
+}
+
+#imageIcon{
+  position: relative;
+  bottom: 4px;
+}
+#temp{
+  font-size: 30px;
+  font-weight: bold;
+  color: #ffffff;
+  text-shadow: 1px 1px #444;
+}
+ #conditions{
+  display: inline-block;
+  margin-left: 10px;
+  font-family: cursive, sans-serif;
+  font-size: 24px;
+}
+.location{
+    margin-bottom: 25px;
+    text-align: center;
+    font-family: cursive, sans-serif;
+    font-size: 24px;
+}
